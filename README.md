@@ -8,3 +8,8 @@ In addition, the p-value of our linear regression analysis is 5.36 x 10-6, which
 
 
 <p align="center"><img src="https://github.com/zkirsan/MechaCar_Statistical_Analysis/blob/main/Resources/Linear_Regression_Results.PNG"></img></p>
+
+
+## Summary Statistics on Suspension Coils
+
+
