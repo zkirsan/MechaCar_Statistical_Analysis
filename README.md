@@ -42,3 +42,13 @@ When we run a t-test that compares lot 3 mean against the population's mean PSI 
 <p align="left"><img src="https://github.com/zkirsan/MechaCar_Statistical_Analysis/blob/main/Resources/lot3_ttest.PNG"></img></p>
 
 ## Study Design: MechaCar vs Competition
+
+The statistical study design consists of Metrics to Test, Null Hypothesis and Alternative Hypothesis, Statistical Tests to Describe, and finally, the data needed. 
+
+To begin, in terms of metrics, we can contrast maintenance cost and fuel efficiency according to the used motor size. It can give us metric values. 
+
+Second, we can compare the mean of the costs to distinguish between the Null hypothesis and its alternative hypothesis. At the same time, the same method can give us fuel efficiency values. 
+
+Third, for testing those values for MechaCar vs Its competitors could use two sample test method. 
+
+Finally, to do so, we need some data, which are maintenance costs, fuel efficiency, and motor properties. 
