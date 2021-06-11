@@ -40,3 +40,5 @@ When we run a t-test that compares lot 2 mean against the population's mean PSI 
 When we run a t-test that compares lot 3 mean against the population's mean PSI (1500), the p-value is 0.04 and less than 0.05. The mean of the lot_3 PSI for the entire sample is not equal to the population's mean.
 
 <p align="left"><img src="https://github.com/zkirsan/MechaCar_Statistical_Analysis/blob/main/Resources/lot3_ttest.PNG"></img></p>
+
+## Study Design: MechaCar vs Competition
