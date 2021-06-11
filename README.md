@@ -49,4 +49,4 @@ To begin, in terms of metrics, we can contrast maintenance cost and fuel efficie
 Second, we can compare the mean of the costs to distinguish between the Null hypothesis and its alternative hypothesis. At the same time, the same method can give us fuel efficiency values. 
 Third, for testing those values for MechaCar vs Its competitors could use two sample test method. 
 
-Finally, to do so, we need some data, which are maintenance costs, fuel efficiency, and motor properties. 
+Finally, we'll need some data, such as maintenance costs, fuel efficiency, and motor properties, to do so.
